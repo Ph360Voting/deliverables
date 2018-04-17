@@ -1,2 +1,2 @@
 # Deliverables
-## As part of the Ph360 final project specs
+## As per the Ph360 final project specifications
